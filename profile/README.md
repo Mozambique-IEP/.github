@@ -127,9 +127,9 @@ UIPCE sits at the centre — not as a passive recipient of results, but as the a
 
 | Name | Role | Email |
 |---|---|---|
-| Inocêncio Gujamo | Programme Manager | [igujamo@mireme.gov.mz](mailto:igujamo@mireme.gov.mz) |
-| Imaculada Dos Santos | Technical Lead | [idsantos@mireme.gov.mz](mailto:idsantos@mireme.gov.mz) |
-| Fernando Mazoio | IT & Infrastructure | [fmazoio@mireme.gov.mz](mailto:fmazoio@mireme.gov.mz) |
+| Inocêncio Gujamo | Programme Manager | [xxx@mireme.gov.mz](mailto:igujamo@mireme.gov.mz) |
+| Imaculada Dos Santos | Technical Lead | [yyy@mireme.gov.mz](mailto:idsantos@mireme.gov.mz) |
+| Fernando Mazoio | IT & Infrastructure | [zzz@mireme.gov.mz](mailto:fmazoio@mireme.gov.mz) |
 
 **Modelling Support — SEforALL**
 
@@ -141,7 +141,7 @@ UIPCE sits at the centre — not as a passive recipient of results, but as the a
 
 | Name | Role | Email |
 |---|---|---|
-| Olaf Veerman | Lead Developer | [olaf@developmentseed.org](mailto:olaf@developmentseed.org) |
+| Olaf Veerman | Lead Developer | [yyy@developmentseed.org](mailto:olaf@developmentseed.org) |
 
 > Email addresses above are placeholders — please update with confirmed addresses before publishing.
 
